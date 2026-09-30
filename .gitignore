@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Video temporary raw files
+demo/TEMPESTIQ-demo-assets/*.wav
+demo/TEMPESTIQ-demo-assets/*.mp3
+demo/TEMPESTIQ-demo-assets/raw_video.mp4
