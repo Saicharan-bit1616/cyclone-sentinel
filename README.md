@@ -1,32 +1,55 @@
-# React + TypeScript + Vite
+# 🌀 CYCLONE SENTINEL — AI-Powered Disaster Intelligence & Infrastructure Risk System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> **Build with AI: Code for Communities Hackathon Submission**
+> An AI-driven early-warning, hazard mapping, and infrastructure vulnerability assessment dashboard designed to protect life, property, and critical community assets during extreme cyclone events.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Executive Summary
 
-## React Compiler
+**Cyclone Sentinel** is an advanced operational decision-support system designed for emergency operation centers (EOCs), first responders, and municipal planners. Powered by Google Gemini AI and real-time geospatial hazard intelligence, Cyclone Sentinel transforms raw meteorological and infrastructure data into actionable, prioritized mitigation strategies before cyclone landfall.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+- **🌐 Interactive Geospatial Satellite Map**: Real-time Leaflet visualization of cyclone trajectories, coastal inundation zones, extreme wind corridors, and critical community assets.
+- **🤖 Gemini AI Tactical Intelligence**: Automated vulnerability diagnosis, consequence analysis, and 3-step action recommendations generated dynamically per infrastructure asset using `@google/genai` (with zero-downtime deterministic rule engine fallback).
+- **📊 Real-time Telemetry & KPI Header**: High-visibility monitoring of storm category, wind speed, central pressure, affected population count, and high-risk facility counts.
+- **🏥 Multi-Sector Asset Management**: Dedicated tracking and filtering across Hospitals, Power Stations, Evacuation Shelters, Potable Water Networks, and Transport Corridors.
+- **⚠️ Actionable Early Alerts**: Severity-ranked dispatch alerts with direct deep-linking to spatial locations and AI mitigation protocols.
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend Core**: React 19, TypeScript, Vite
+- **Styling & UI**: Tailwind CSS, Lucide Icons, Glassmorphism design system
+- **Geospatial & Visualizations**: Leaflet, React-Leaflet, Recharts
+- **Artificial Intelligence**: `@google/genai` (Google Gemini 2.5 Flash API) with offline rule engine fallback
+- **Deployment**: Vercel
+
+---
+
+## 🚀 Quick Start & Local Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/cyclone-sentinel.git
+cd cyclone-sentinel
+
+# 2. Install dependencies
+npm install
+
+# 3. (Optional) Set up Gemini API Key
+cp .env.example .env
+# Add VITE_GEMINI_KEY=your_key_here
+
+# 4. Start local development server
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## 📄 License
+Distributed under the MIT License. Built for community resilience and disaster response.
