@@ -1,0 +1,54 @@
+================================================================================
+TEMPESTIQ — HACKATHON DEMO VIDEO SCRIPT & NARRATION TIMELINE
+================================================================================
+
+PROJECT: TEMPESTIQ (Cyclone Sentinel)
+SUBTITLE: AI-Powered Geospatial Disaster Risk Analysis & Infrastructure Intelligence
+DURATION: 85 Seconds (16:9 1080p MP4)
+STYLING: Clean, Modern Climate-Tech Aesthetic, Light UI Command Center
+
+--------------------------------------------------------------------------------
+TIMELINE BREAKDOWN & NARRATION:
+--------------------------------------------------------------------------------
+
+0:00 - 0:05 | SCENE 1: TITLE INTRO
+Visual: Modern title card featuring "TEMPESTIQ: AI Disaster Intelligence" with subtext "AI-powered geospatial disaster risk analysis".
+Voiceover Narration: "Welcome to TEMPESTIQ, an AI-powered disaster intelligence platform designed to protect life and critical community assets during extreme cyclone landfall events."
+Subtitles: [TEMPESTIQ — AI Disaster Intelligence & Geospatial Risk Analysis]
+
+0:05 - 0:15 | SCENE 2: MAIN DASHBOARD & TELEMETRY
+Visual: Live command dashboard overview displaying Category 4 Cyclone VEER telemetry, peak winds of 185 km/h, 4.2m storm surge height, and 12-hour landfall countdown.
+Voiceover Narration: "Our real-time command dashboard ingests meteorological feeds, tracking peak wind speeds, coastal storm surge heights, and exposed population metrics."
+Subtitles: [Real-Time Meteorological Telemetry & Cyclone Hazard Tracking]
+
+0:15 - 0:30 | SCENE 3: SATELLITE RISK MAP & INUNDATION ZONES
+Visual: High-resolution satellite map zooming into coastal sectors, showing cyclone trajectory corridors, colored flood hazard polygons, and facility markers.
+Voiceover Narration: "Navigating to the satellite Risk Map, TEMPESTIQ projects forecast corridors, wind impact zones, and coastal flood polygons down to high-vulnerability coastal sectors."
+Subtitles: [Satellite Geospatial Mapping & Coastal Inundation Zones]
+
+0:30 - 0:45 | SCENE 4: INFRASTRUCTURE FACILITY SELECTION & VULNERABILITY
+Visual: User selects District General Hospital. Side panel reveals 88% vulnerability score, 145,000 population served, elevation 4.5m MSL, and risk factors.
+Voiceover Narration: "Selecting District General Hospital reveals facility elevation, population served, power grid dependencies, and critical vulnerability risk scores."
+Subtitles: [Target Facility Audit: Vulnerability Score & Exposure Profiling]
+
+0:45 - 0:60 | SCENE 5: GEMINI AI TACTICAL INTELLIGENCE & RECOMMENDATIONS
+Visual: Google Gemini 2.5 Flash AI Triage Engine generating 3-step prioritized pre-landfall mitigation steps and emergency warning text.
+Voiceover Narration: "Powered by Google Gemini AI, TEMPESTIQ generates facility-specific impact projections and 3-step pre-landfall action plans—supported by a zero-downtime offline rule engine."
+Subtitles: [Gemini AI Triage: Actionable Pre-Landfall Mitigation Protocols]
+
+0:60 - 0:72 | SCENE 6: INFRASTRUCTURE MATRIX & SECTOR FILTERING
+Visual: Infrastructure tab showing sector breakdown across Hospitals, Power Substations, Shelters, Water Plants, and Transport bottlenecks.
+Voiceover Narration: "The Infrastructure matrix categorizes critical assets across healthcare, energy, water, and transit, highlighting high-priority facilities requiring pre-positioning."
+Subtitles: [Multi-Sector Asset Tracking: Hospitals, Power Grids, Shelters & Water]
+
+0:72 - 0:82 | SCENE 7: EMERGENCY ALERT DISPATCH CENTER
+Visual: Alerts tab showing severity-ranked disaster dispatches with direct "Locate on Map" spatial navigation links.
+Voiceover Narration: "The Emergency Alert center ranks severity-based dispatches, enabling command teams to pre-stage mobile generators and dispatch 4x4 relief convoys."
+Subtitles: [Emergency Dispatch: Priority Alerts & Spatial Navigation]
+
+0:82 - 0:85 | SCENE 8: OUTRO & SYSTEM SUMMARY
+Visual: Return to main dashboard with brand slogan card: "TEMPESTIQ: Predict Risk. Protect Infrastructure. Act Before Impact."
+Voiceover Narration: "TEMPESTIQ. Predict risk. Protect infrastructure. Act before impact."
+Subtitles: [TEMPESTIQ — Predict Risk. Protect Infrastructure. Act Before Impact.]
+
+================================================================================

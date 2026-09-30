@@ -1,0 +1,17 @@
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_1.png'
+duration 5.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_2.png'
+duration 10.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_3.png'
+duration 15.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_4.png'
+duration 15.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_5.png'
+duration 15.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_6.png'
+duration 12.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_7.png'
+duration 10.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_8.png'
+duration 3.0
+file '/home/chvsaicharan/Projects/hack2skill/demo/TEMPESTIQ-demo-assets/sub_scene_8.png'
